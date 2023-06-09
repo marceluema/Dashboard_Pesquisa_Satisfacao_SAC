@@ -1,2 +1,2 @@
-# Dashboard_Pesquisa_Satisfacao_SAC
- Dashboard_Pesquisa_Satisfacao_SAC
+# Dashboard Pesquisa Satisfaçã (SAC)
+Dashboard usando a biblioteca Dash do plotly, com dados da pesquisa de satifação realizada pela SAC (Secretaria Aviação Civil) de 2013 a 2021.
